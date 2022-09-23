@@ -1,6 +1,5 @@
-
 #############
-ij.start.canon 
+ij.start  
 #############
 
 
@@ -10,20 +9,20 @@ ij.start.canon
     :width: 300px
     :align: center
     :height: 100px
-    :alt: ij.start.canon
-    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    :alt: ij.start
+    :target: http://ijstar.s3-website-us-west-1.amazonaws.com
     
 |
 
-When it comes to quality, reliability, and productivity, the **Canon IJ printers** are the first and only choice of the users around the globe.  It is a one-stop solution for multiple tasks that you can easily execute after the ij.start.canon setup on your device. **ij.start.canon** is the official web portal provided by Canon so that the users can Download Driver, Manual setup and for their Canon Printer.  
+When it comes to quality, reliability, and productivity, the ** IJ printers** are the first and only choice of the users around the globe.  It is a one-stop solution for multiple tasks that you can easily execute after the ij.start setup on your device. **ij.start** is the official web portal provided by   so that the users can Download Driver, Manual setup and for their Printer.  
 
 
 *************
-Download Canon Printer Drivers - ij.start.canon
+Download Printer Drivers - ij.start
 *************
 
 
-1. Open your web browser and go to **ij.start.canon** 
+1. Open your web browser and go to **ij.start** 
 2. Choose your preferred language and select your country.
 3. Login to your account by providing the required login details.
 4. Create an account if you are a new user.
@@ -34,12 +33,12 @@ Download Canon Printer Drivers - ij.start.canon
 
 
 *************
-Install Ij Canon Printer Driver Using ij.start.canon
+Install Ij Printer Driver Using ij.start. 
 *************
 
-**Here are the simple and easy steps to install canon printer driver on your device :**
+**Here are the simple and easy steps to install   printer driver on your device :**
 
-1. Locate the ij.start.canon file and double-click it.
+1. Locate the ij.start file and double-click it.
 2. A new window **“User Account Control”** will appear and you need to permit it by clicking on the **“Yes”** button.
 3. Read the terms and conditions. Click **"I Agree"** to continue the process of installation.
 4. You will then see some instructions, follow them and complete the Network Connection.
@@ -49,15 +48,15 @@ Install Ij Canon Printer Driver Using ij.start.canon
 
 
 *************
-Setting Up Canon IJ Printer With USB –
+Setting Up IJ Printer With USB –
 *************
 
-**If you have a usb and want to connect a canon printer using usb cable then, the given below steps will help you perform the task much easier. Follow the steps orderly:**
+**If you have a usb and want to connect a   printer using usb cable then, the given below steps will help you perform the task much easier. Follow the steps orderly:**
 
-1. From the web browser, go to the ij.start.canon site and choose to set up a network connection via USB.
-2. Jump next and wait for the Canon software to connect your printer to PC with the help of a USB cable.
+1. From the web browser, go to the ij.start site and choose to set up a network connection via USB.
+2. Jump next and wait for the   software to connect your printer to PC with the help of a USB cable.
 3. Hit Next and get the driver for your printer and check whether you want to connect the printer to a particular network.
 4. Then tap YES and hit the Complete button and go to Add printer option.
 5. Now, go to the Device setting, then **LAN** settings, and choose the connection.
-6. Install Canon drivers, inkjet cartridges, and check the connections for your device.
-7. Configure the Canon printer and try printing.
+6. Install drivers, inkjet cartridges, and check the connections for your device.
+7. Configure the  printer and try printing.
